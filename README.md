@@ -8,4 +8,4 @@ There are three parts in this repository:
 2. The functions for the comparative simulation study.
 3. The functions for the results of the simulation study related to only TenSeg when serial correlation was added to the data.
 
-The scripts for the first part are organised in the folder _Main functions_, while the scripts for the last two parts are organised in the folder _sim_.
+The scripts for the first part are organised in the folder _Main functions_, while the scripts for the last two parts are organised in the folder _Simulations_.

@@ -1,5 +1,3 @@
-# TenSeg
-
 # Scope
 
 This repository contains R code that can be used to replicate the results in
